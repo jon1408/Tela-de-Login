@@ -120,6 +120,14 @@ a:hover{
 	color:#42296A;
 }
 
+.fa-eye{
+	position: absolute;
+	top:15px;
+	right: 10px;
+	cursor:pointer;
+	color:#42296A;
+}
+
 @media screen and (max-width: 768px){
 	body{
 	/*background-image:url(https://img-9gag-fun.9cache.com/photo/arV70Wd_700bwp.webp);*/
@@ -169,5 +177,9 @@ a:hover{
     a{
         color:#B85B73;
     }
+
+	.fa-eye{
+		color:#182B2B;
+	}
 
 }
